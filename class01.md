@@ -1,10 +1,6 @@
 ## How To Access The Web
 
-### You can access websites using software called a web browser,
- In order to view a web page, users might type a web address into their
- browser , When you ask your browser for a web page, the request is sent
- across the Internet to a special computer known as a web server which
- hosts the website, Popular examples of browsers:
+### You can access websites using software called a web browser, In order to view a web page, users might type a web address into their browser , When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website, Popular examples of browsers:
 
 - Chrome
 
@@ -16,35 +12,28 @@
 
 ## How To Create A Website
 
-### Small websites are often written just using HTML and CSS,
-Larger sites may use a database to store data,and programming languages
- such as PHP, ASP.Net, Java, JS, or Ruby on the web server.
+### Small websites are often written just using HTML and CSS, Larger sites may use a database to store data,and programming languages such as PHP, ASP.Net, Java, JS, or Ruby on the web server.
 
 
 # HTML Structure
 
 ## HTML Elements
 
-### HTML have elements written as tags, every element have opening and
- closing tag, HTML pages made up of two main elements (tags):
+### HTML have elements written as tags, every element have opening and closing tag, HTML pages made up of two main elements (tags):
 
 1- Head
 
 2- Body
 
-### Head tag : Before the Body tag, This contains information about the
- page, its will not shown in website screen.
+### Head tag : Before the Body tag, This contains information about the page, its will not shown in website screen.
 
-### Body tag : Everything inside this element is shown inside the main
-browser window.
+### Body tag : Everything inside this element is shown inside the main browser window.
 
 # HTML Markup
 
 ## Comment in HTML
 
-### If you want to add a comment to your code that will not be visible
- in the user's browser, you can add the text between these characters:
-<!-- comment -->
+### If you want to add a comment to your code that will not be visible in the user's browser.
 
 ## HTML Attributes
 
