@@ -1,8 +1,8 @@
 # Code 201 Reading Notes
 
-##  
 
-**Topic** | **Link** 
+
+**Class** | **Link** 
 --- | --- 
 Class01 | [CLICK!](https://tumaho.github.io/reading-notes/class01)
 --- | ---
