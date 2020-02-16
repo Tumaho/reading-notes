@@ -1,6 +1,8 @@
 # Code 201 Reading Notes
 
+## This website shown what we will take in 201 course during one month
 
+## Here a links of all classes in this course:
 
 **Class** | **Link** 
 --- | --- 
