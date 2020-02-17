@@ -6,7 +6,6 @@
 
 1- Ordered list : `<ol>` every items in this list have like an ID number from 1 to number of items.
 
-<<<<<<< HEAD
 2- Unordered list : `<ul>` list of items that dose't have an ordered numbers.
 
 3- Definition list : `<dl>` consists of a series of terms and their definitions.
