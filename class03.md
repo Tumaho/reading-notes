@@ -42,6 +42,4 @@
 2- WHILE Loop
 
 3- DO WHILE Loop
-=======
-2- Unordered list : '<ul>' list of items that dose't have an ordered numbers.
->>>>>>> e26f5a0f617038d6c8eaaa988188bf27d8c587be
+
